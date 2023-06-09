@@ -1,3 +1,14 @@
+2023-06-08
+Below is the original Readme. This is code from an old Coco3 OS9 program I (partially) wrote.
+It was a viewer for gif files that included a special trick to allow for more colors.
+This is pre-ANSI C code!
+
+Thanks to L. Curtis Boyle for locating this and sending it to me.
+
+  - Vaughn
+
+---
+
 The following is some discussion of just what's going on in viewgif, so that
 future code maintainers and modifiers can have an easier time of it.
 
